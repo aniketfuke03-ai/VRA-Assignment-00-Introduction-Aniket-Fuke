@@ -7,7 +7,7 @@
 | Full name | `[Aniket Pralhadrao Fuke]` |
 | GitHub username | `[aniketfuke03-ai]` |
 | Class/college | `[shankarlal khandelwal college (BAC-3rd year)]` |
-| Submission date | `[10 Aug]` |
+| Submission date | `[10 Aug ]` |
 
 ---
 
